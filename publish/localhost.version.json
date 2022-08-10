@@ -1,0 +1,9 @@
+{
+  "v0.0.1": {
+    "deployer": "0x36b3De2ad1F999b7c742A3E8b7d5Dd5b6956C330",
+    "contracts": {
+      "KoiToken": "0x3a07e706C1AE5758B46CB1092974e3fA800CB5dd",
+      "KoiRouter": "0xA89789fabD5C0b3c30D4B995F8E0767FEB19F8bd"
+    }
+  }
+}

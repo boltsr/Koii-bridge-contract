@@ -1,0 +1,48 @@
+{
+  "v0.0.1": {
+    "deployer": "0xB7180670fc3e7a4Ccd8fE4bcBEcAe2bEaA7d92E0",
+    "contracts": {
+      "KoiRouter": "0x44A160437773CF1Bf6F9eEc0C6A0B5F28dD7f4DE"
+    }
+  },
+  "v0.0.2": {
+    "deployer": "0xB7180670fc3e7a4Ccd8fE4bcBEcAe2bEaA7d92E0",
+    "contracts": {
+      "KoiRouter": "0xD1183ad3B7934466aCB98D17B85Ced15999EA3AC"
+    }
+  },
+  "v0.0.3": {
+    "deployer": "0xB7180670fc3e7a4Ccd8fE4bcBEcAe2bEaA7d92E0",
+    "contracts": {
+      "KoiRouter": "0xF991990D2E155093E58b54B6F9Eb83cB9de19Bd6"
+    }
+  },
+  "v0.0.4": {
+    "deployer": "0xB7180670fc3e7a4Ccd8fE4bcBEcAe2bEaA7d92E0",
+    "contracts": {
+      "KoiToken": "0x54a392c41F2873a9c5e8094fD0839E8eBDA72761",
+      "KoiRouter": "0xAD538e14f02f5C82053f676A53F85a02ddCf0751"
+    }
+  },
+  "v0.0.5": {
+    "deployer": "0xB7180670fc3e7a4Ccd8fE4bcBEcAe2bEaA7d92E0",
+    "contracts": {
+      "KoiToken": "0xb01A92F472836bc4198c26A659875c6f21E28506",
+      "KoiRouter": "0xFcD15959482ff9E262f668525CDaaa849F6aBeb6"
+    }
+  },
+  "v0.0.6": {
+    "deployer": "0xB7180670fc3e7a4Ccd8fE4bcBEcAe2bEaA7d92E0",
+    "contracts": {
+      "KoiToken": "0x8FE956c094271D1ad00Eab8257CC7dF71d76dD11",
+      "KoiRouter": "0x8ce759A419aC0fE872e93C698F6e352246FDb50B"
+    }
+  },
+  "v0.0.7": {
+    "deployer": "0xB7180670fc3e7a4Ccd8fE4bcBEcAe2bEaA7d92E0",
+    "contracts": {
+      "KoiToken": "0x4Cd506ffc11585fbD2257Bd7f33Dc0cc57887FD9",
+      "KoiRouter": "0xFBF9d231064517CFF751c27A8f37eEC2c8d18931"
+    }
+  }
+}
